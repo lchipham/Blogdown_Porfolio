@@ -37,4 +37,4 @@ This is my personal creative space, where I immerse myself in data analysis & vi
 
 {{< icon name="code" pack="fas" >}}  Skilled in R, SQL, Tableau.
 
-{{< icon name="download" pack="fas" >}}  Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}  Download my {{< staticref "uploads/LinhChi_Pham_Resume_2023.pdf" "newtab" >}}resumé{{< /staticref >}}.
